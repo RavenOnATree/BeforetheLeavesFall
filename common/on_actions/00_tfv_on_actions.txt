@@ -1,0 +1,14 @@
+on_puppet = {
+  effect = {
+    if = {
+      limit = { 
+        AND = { 
+          TAG = RHI
+          is_subject_of = FRA
+           }
+          }
+        set_cosmetic_tag = RHI_FRA
+      }
+    }
+  }
+}

@@ -1,0 +1,8 @@
+BER = "countries/Berlin.txt"
+GAL = "countries/Galicia.txt"
+POL = "countries/Poland.txt"
+SIL = "countries/Silesia.txt"
+ENG = "countries/United_Kingdom.txt"
+GER = "countries/Germany.txt"
+BAY = "countries/Bavaria.txt"
+PRE = "countries/Prussia.txt"

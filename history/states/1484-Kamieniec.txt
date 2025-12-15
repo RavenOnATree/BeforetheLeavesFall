@@ -1,0 +1,23 @@
+state={
+	id=1484
+	name="STATE_1484"
+
+	history={
+		owner = BLR
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = {
+			13632 1 #Kamieniec
+		}
+		add_core_of = BLR
+	}
+
+	provinces={
+		3256 13632
+	}
+	manpower=41560
+	state_category=pastoral
+
+	local_supplies=0.0 
+}

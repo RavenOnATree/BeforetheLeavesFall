@@ -1,0 +1,26 @@
+set_cosmetic_tag = POL_intermarium
+set_autonomy = {
+		target = SIL
+		autonomous_state = autonomy_intermarium_protectorate
+		freedom_level = 0.5
+	}
+set_autonomy = {
+		target = LIT
+		autonomous_state = autonomy_autonomous_governate
+		freedom_level = 0.5
+	}
+set_autonomy = {
+		target = GAL
+		autonomous_state = autonomy_autonomous_governate
+		freedom_level = 0.5
+	}
+set_autonomy = {
+		target = UKR
+		autonomous_state = autonomy_liberated_territory
+		freedom_level = 0.5
+	}
+set_autonomy = {
+		target = BLR
+		autonomous_state = autonomy_liberated_territory
+		freedom_level = 0.5
+	}

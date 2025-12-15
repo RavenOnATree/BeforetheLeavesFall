@@ -1,0 +1,40 @@
+set_autonomy = {
+		target = SCO
+		autonomous_state = autonomy_national_assembly
+		freedom_level = 0.5
+	}
+set_autonomy = {
+		target = WLS
+		autonomous_state = autonomy_national_assembly
+		freedom_level = 0.5
+	}
+set_autonomy = {
+		target = IRE
+		autonomous_state = autonomy_free_state
+		freedom_level = 0.5
+	}
+set_autonomy = {
+		target = HAN
+		autonomous_state = autonomy_dominion
+		freedom_level = 0.5
+	}
+set_autonomy = {
+		target = CAN
+		autonomous_state = autonomy_dominion
+		freedom_level = 0.5
+	}
+set_autonomy = {
+		target = AST
+		autonomous_state = autonomy_dominion
+		freedom_level = 0.5
+	}
+set_autonomy = {
+		target = NZL
+		autonomous_state = autonomy_dominion
+		freedom_level = 0.5
+	}
+set_autonomy = {
+		target = SAF
+		autonomous_state = autonomy_dominion
+		freedom_level = 0.5
+	}
