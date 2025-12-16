@@ -11,7 +11,7 @@ state={
 		victory_points = {
 			9388 1
 		}
-		owner = PRE
+		owner = GER
 		buildings = {
 			infrastructure = 3
 			fuel_silo = 1
@@ -19,11 +19,6 @@ state={
 		add_core_of = GER
 		add_core_of = PRE
 
-		1939.1.1 = {
-			buildings = {
-				air_base = 8
-			}
-		}
 	}
 
 	provinces={

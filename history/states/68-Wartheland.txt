@@ -16,7 +16,7 @@ state={
 		victory_points = {
 			537 2 #Kustrin
 		}
-		owner = PRE
+		owner = GER
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1

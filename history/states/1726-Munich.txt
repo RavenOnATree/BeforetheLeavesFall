@@ -1,18 +1,18 @@
 
 state={
-	id=52
-	name="STATE_52"
-	manpower = 1669702
+	id=1726
+	name="STATE_1726"
+	manpower = 630711
 	resources={
 		aluminium=5
 	}
 	
-	state_category = large_town
+	state_category = city
 
 	history={
-		owner = BAY
+		owner = MUN
 		victory_points = {
-			708 3 #10
+			692 20 #Munchen
 		}
 		buildings = {
 			infrastructure = 4
@@ -20,12 +20,13 @@ state={
 			industrial_complex = 1
 			air_base = 3
 		}
+		add_core_of = MUN
 		add_core_of = GER
 		add_core_of = BAY
 
 		}
 	provinces={
-		708 3705 6693 9666 11638 14541
+		692
 	}
 	}
 
