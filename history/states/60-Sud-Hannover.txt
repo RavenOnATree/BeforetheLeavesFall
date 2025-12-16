@@ -13,7 +13,7 @@ state={
 
 	history={
 		owner = GER
-		victory_points = { 425 3 }
+		victory_points = { 6582 3 }
 		
 		victory_points = { 
 			6582 5
@@ -27,7 +27,7 @@ state={
 		add_claim_by = PRE
 		}
 	provinces={
-		425 482 538 6501 6524 6582 9497 14005
+		 482 538 6501 6524 6582 9497 14005
 	}
 	}
 
