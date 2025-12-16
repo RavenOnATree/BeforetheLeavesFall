@@ -1,0 +1,34 @@
+
+state={
+	id=1723
+	name="STATE_1723"
+	manpower = 76000
+
+	resources={
+		aluminium=30
+	}	
+	
+	state_category = rural
+
+	history={
+		add_core_of = SUR
+		owner = FRA
+		add_claim_by = HOL
+		victory_points = {
+			10906 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			12828 = {
+				naval_base = 1
+			}
+		}
+	}
+
+	provinces={
+		13853 10906
+	}
+
+	local_supplies=0.0 
+}
