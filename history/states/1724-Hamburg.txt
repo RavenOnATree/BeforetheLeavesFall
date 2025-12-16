@@ -1,0 +1,31 @@
+state = {
+	id = 1724
+	name = "STATE_1724" # Hamburg
+	manpower = 931035
+	
+	state_category = large_city
+
+	history = {
+		owner = HAM
+		victory_points = {
+			9347 20 #Hamburg
+		}
+		
+		buildings = {
+			infrastructure = 4
+			air_base = 2
+			arms_factory = 1
+			industrial_complex = 4
+            }
+		add_core_of = HAM
+		add_core_of = GER
+		add_core_of = SHL
+		add_claim_by = PRE
+	}
+
+	provinces = {
+		9347
+ 	}
+
+	local_supplies = 0.0 
+}
