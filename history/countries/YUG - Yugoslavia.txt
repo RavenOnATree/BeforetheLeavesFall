@@ -1,0 +1,6 @@
+set_costmetic_tag = YUG
+set_autonomy = {
+		target = BUL
+		autonomous_state = autonomy_puppet
+		freedom_level = 0.5
+	}
