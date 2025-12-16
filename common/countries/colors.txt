@@ -109,8 +109,8 @@ DEN = {
 	color_ui = rgb { 199 151 121 }
 }
 BUL = {
-	color = rgb { 51 155 0 }
-	color_ui = rgb { 51 155 0 }
+	color = rgb { 69 70 123 }
+	color_ui = rgb { 91 92 161 }
 }
 POR = {
 	color = rgb { 39 116 70 }
