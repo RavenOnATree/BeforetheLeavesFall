@@ -1227,6 +1227,9 @@ HBC = {
 	color = rgb { 156 27 22 }
 	color_ui = rgb { 94 17 14 }
 }
-
+WMR = {
+    color = rgb { 0 125 175 }
+    color_ui = rgb { 0 125 175 }
+}
 
 
