@@ -1,4 +1,4 @@
-characters {
+characters={
 MUN_character = {
 		name = MUN_character
 		portraits = {
