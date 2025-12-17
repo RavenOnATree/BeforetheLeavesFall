@@ -46,8 +46,8 @@ CZE = {	color = rgb { 54 167 156 }
 		color_ui = rgb { 70 217 203 }
 }
 POL = {
-	color = rgb { 201 112 198 }
-	color_ui = rgb { 201 112 198 }
+	color = rgb { 143 77 99 }
+	color_ui = rgb { 143 77 99 }
 }
 CTL = { color 	 = rgb { 193 171 8  }
 		color_ui = rgb { 251 222 10 }
