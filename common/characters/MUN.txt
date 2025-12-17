@@ -3,12 +3,11 @@ MUN_character = {
 		name = MUN_character
 		portraits = {
 			civilian = {
-				large = GFX_portrait_MUN_JungerHitler
+				large = GFX_portrait_MUN_character
 			}
 		}
 		country_leader = {
 			ideology = nazism
-			traits = { GER_der_fuhrer }
 			expire = "1965.1.1.1"
 			id = -1
 		}
