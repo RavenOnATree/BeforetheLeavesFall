@@ -1,9 +1,9 @@
 characters {
-GER_adolf_hitler = {
-		name = GER_adolf_hitler
+MUN_character = {
+		name = MUN_character
 		portraits = {
 			civilian = {
-				large = GFX_portrait_GER_adolf_hitler
+				large = GFX_portrait_MUN_JungerHitler
 			}
 		}
 		country_leader = {
