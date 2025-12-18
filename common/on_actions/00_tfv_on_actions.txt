@@ -11,4 +11,31 @@ on_puppet = {
       }
     }
   }
-}
+
+on_puppet = {
+  effect = {
+    if = {
+      limit = { 
+        AND = { 
+          TAG = MOR
+          is_subject_of = FRA
+           }
+          }
+        set_cosmetic_tag = MOR_FRA
+      }
+    }
+  }
+
+on_puppet = {
+  effect = {
+    if = {
+      limit = { 
+        AND = { 
+          TAG = TUN
+          is_subject_of = FRA
+           }
+          }
+        set_cosmetic_tag = TUN_FRA
+      }
+    }
+  }
