@@ -1,1 +1,3 @@
 set_cosmetic_tag = MUN
+
+recruit_character = MUN_character

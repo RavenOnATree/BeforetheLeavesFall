@@ -1,17 +1,18 @@
 characters={
-MUN_character = {
-		name = MUN_character
+	MUN_character = {
+		name = MUN_adolf_hitler
 		portraits = {
 			civilian = {
-				large = GFX_portrait_MUN_character
+				large = GFX_portrait_MUN_adolf_hitler
 			}
 		}
 		country_leader = {
-			ideology = nazism
+			ideology = liberalism
+			traits = {}
 			expire = "1965.1.1.1"
 			id = -1
 		}
 	}
 
   
-  }
+}

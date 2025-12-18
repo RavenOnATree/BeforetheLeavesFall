@@ -1,0 +1,7 @@
+spriteTypes = { 
+
+  spriteType = {
+    name = "GFX_portrait_MUN_adolf_hitler"
+    texturefile = "gfx/leaders/MUN/Hitler.tga"
+  }
+}
