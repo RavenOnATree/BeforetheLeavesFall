@@ -1,0 +1,7 @@
+spriteTypes = { 
+
+  spriteType = {
+  name = "GFX_portrait_MUN_character"
+  texturefile = "gfx/leaders/MUN/MUN_character.tga"
+  }
+  }
