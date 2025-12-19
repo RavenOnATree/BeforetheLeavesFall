@@ -8,7 +8,7 @@ bookmarks = {
 		default = yes
 
 		"POL"={
-			history = "POL_PRUSSIAN_DUSK_DESC"
+			history = "Whilst awaiting the Kaiser's surrender, Polish troops found themselves still pushing deeper into Russian lines, securing key cities up to the dnieper for the young Polish state. This manpower and resources led to the eventual 1920 invasion of Germany and Austria-Hungary, led by Józef Piłsudski and backed with French Aid, they liberated thousands of Slavs from Germanic oppression. Now, with peace established, they have formed a collection of former Austro-Hungarian and Russian states grateful to the cause as a bastion of peace between the Baltic, Black, and Adriatic seas"
 			ideology = neutrality
 			ideas = {
 
@@ -18,7 +18,7 @@ bookmarks = {
 			}
 		}
 		"FRA"={
-			history = "FRA_PRUSSIAN_DUSK_DESC"
+			history = "WIP"
 			ideology = democratic
 			ideas = {
 
@@ -29,7 +29,7 @@ bookmarks = {
 		}
 		"ENG"={
 			minor = yes
-			history = "ENG_PRUSSIAN_DUSK_DESC"
+			history = "WIP"
 			ideology = democratic
 			ideas = {
 
