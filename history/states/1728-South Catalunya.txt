@@ -1,0 +1,28 @@
+state={
+	id=1728
+	name="STATE_1728"
+	manpower = 320024
+
+	resources = {
+		coal = 1
+	}
+	
+	state_category = town
+
+	history={
+		owner = FRA
+		add_core_of = CAT
+		add_claim_by = FRA
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		add_core_of = SPR
+	}
+
+	provinces={
+		6836 6812 6966 13225
+	}
+
+	local_supplies=0.0 
+}
