@@ -1,14 +1,14 @@
 bookmarks = {
 	bookmark = {
 		name = "Prussian Dusk"
-		desc = "It has been four years since French troops ended their advance into German territory, yet the bloodshed still continues. The once grand central powers have been shattered beyond recognition in their place lies only anarchy. Once great powers have become crippled and divided, with others only becoming stronger for it."
+		desc = "It has been four years since French troops ended their advance into German territory, yet the bloodshed still continues. The once grand Central Powers have been shattered beyond recognition, and in their place lies only anarchy. The former great powers of Europe have been crippled and divided, while the nations of France and Poland grow stronger by the day."
 		date = 1925.7.1.12
 		picture =  "GFX_start_date_1925"
 		default_country = "POL"
 		default = yes
 
-		"POL"={
-			history = "Whilst awaiting the Kaiser's surrender, Polish troops found themselves still pushing deeper into Russian lines, securing key cities up to the dnieper for the young Polish state. This manpower and resources led to the eventual 1920 invasion of Germany and Austria-Hungary, led by Józef Piłsudski and backed with French Aid, they liberated thousands of Slavs from Germanic oppression. Now, with peace established, they have formed a collection of former Austro-Hungarian and Russian states grateful to the cause as a bastion of peace between the Baltic, Black, and Adriatic seas"
+		POL={
+			history = "Whilst awaiting the Kaiser's surrender, Polish troops found themselves still pushing deeper into Russian lines, securing key cities up to the dnieper for the young Polish state. The great amount of manpower and resources allowed for the eventual 1920 invasion of Germany and Austria-Hungary. Led by Józef Piłsudski and backed by the Entente, the Poles liberated thousands of slavic peoples from former German and Hungarian oppression.. Now, with peace established, they have oragnised former Austro-Hungarian and Russian states, all grateful to their liberators, to create the Intermarium, a bastion of peace and stability which spreads from the Baltic to the Black Sea."
 			ideology = neutrality
 			ideas = {
 
@@ -17,7 +17,7 @@ bookmarks = {
 
 			}
 		}
-		"FRA"={
+		FRA={
 			history = "WIP"
 			ideology = democratic
 			ideas = {
@@ -27,7 +27,7 @@ bookmarks = {
 
 			}
 		}
-		"ENG"={
+		ENG={
 			minor = yes
 			history = "WIP"
 			ideology = democratic
