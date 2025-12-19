@@ -8,13 +8,14 @@ state={
 	state_category = rural
 	
 	history={
-		owner = ADR
+		owner = CAT
 		buildings = {
 
 		}
 		victory_points = {
 			13678 1
 		}
+		add_core_of = CAT
 		add_core_of = ADR
 	}
 
