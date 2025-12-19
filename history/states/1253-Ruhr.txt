@@ -31,7 +31,7 @@ state={
 		}
 		add_core_of = GER
 		add_core_of = WPH
-		add_caim_by = PRE
+		add_claim_by = PRE
 		add_core_of = RHI
 
 		}

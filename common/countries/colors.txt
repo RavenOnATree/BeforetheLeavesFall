@@ -20,6 +20,10 @@ FRA = {
 	color = rgb { 11 77 158 }
 	color_ui = rgb { 74 147 255 }
 }
+WFA = {
+	color = rgb { 11 77 158 }
+	color_ui = rgb { 74 147 255 }
+}
 HAM = {
 	color = rgb { 238 211 211 }
 	color_ui = rgb { 238 211 211 }
@@ -151,6 +155,10 @@ BOL = {
 BRA = {
 	color = rgb { 76 145 63 }
 	color_ui = rgb { 99 189 82 }
+}
+CAT = {
+	color = rgb { 143 94 70 }
+	color_ui = rgb { 143 94 70 }
 }
 CAN = {
 	color = rgb { 233  59  59 }

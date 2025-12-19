@@ -13,3 +13,8 @@ set_autonomy = {
 		autonomous_state = autonomy_colonial
 		freedom_level = 0.3
 	}
+set_autonomy = {
+		target = WFA
+		autonomous_state = autonomy_colonial
+		freedom_level = 0.3
+	}

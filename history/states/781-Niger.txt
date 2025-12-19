@@ -7,7 +7,8 @@ state = {
 
 	history = { 
 
-		owner = FRA
+		owner = WFA
+		add_core_of = WFA
 		add_core_of = NGR
 		add_core_of = SOK
 

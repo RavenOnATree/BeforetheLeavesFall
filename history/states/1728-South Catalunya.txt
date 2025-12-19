@@ -1,7 +1,7 @@
 state={
 	id=1728
 	name="STATE_1728"
-	manpower = 320024
+	manpower = 210024
 
 	resources = {
 		coal = 1
@@ -18,10 +18,11 @@ state={
 			industrial_complex = 1
 		}
 		add_core_of = SPR
+		set_demilitarized_zone = yes
 	}
 
 	provinces={
-		6836 6812 6966 13225
+		6836 6812
 	}
 
 	local_supplies=0.0 

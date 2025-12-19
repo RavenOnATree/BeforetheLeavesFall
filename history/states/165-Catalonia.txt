@@ -20,6 +20,7 @@ state={
 		victory_points = {
 			6927 1
 		}
+		set_demilitarized_zone = yes
 		buildings = {
 			infrastructure = 4 #was: 7
 			arms_factory = 1
