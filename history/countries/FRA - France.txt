@@ -18,3 +18,13 @@ set_autonomy = {
 		autonomous_state = autonomy_colonial
 		freedom_level = 0.3
 	}
+set_autonomy = {
+		target = CMR
+		autonomous_state = autonomy_colonial
+		freedom_level = 0.3
+	}
+set_autonomy = {
+		target = FEA
+		autonomous_state = autonomy_colonial
+		freedom_level = 0.3
+	}
