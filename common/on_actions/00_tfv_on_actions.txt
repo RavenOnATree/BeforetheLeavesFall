@@ -39,3 +39,17 @@ on_puppet = {
       }
     }
   }
+
+on_puppet = {
+  effect = {
+    if = {
+      limit = { 
+        AND = { 
+          TAG = CMR
+          is_subject_of = FRA
+           }
+          }
+        set_cosmetic_tag = CMR_FRA
+      }
+    }
+  }
