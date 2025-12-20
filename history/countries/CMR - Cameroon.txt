@@ -1,1 +1,1 @@
-#Cameroon
+set_cosmetic_tag = MOR_FRA
