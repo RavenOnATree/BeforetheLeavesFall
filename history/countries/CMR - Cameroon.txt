@@ -1,1 +1,1 @@
-set_cosmetic_tag = MOR_FRA
+set_cosmetic_tag = CMR_FRA
