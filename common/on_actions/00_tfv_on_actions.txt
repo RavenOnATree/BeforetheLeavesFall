@@ -67,3 +67,17 @@ on_puppet = {
       }
     }
   }
+
+on_puppet = {
+  effect = {
+    if = {
+      limit = { 
+        AND = { 
+          TAG = MAD
+          is_subject_of = FRA
+           }
+          }
+        set_cosmetic_tag = MAD_FRA
+      }
+    }
+  }

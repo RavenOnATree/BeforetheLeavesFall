@@ -7,3 +7,13 @@ CMR_FRA = {
     color = rgb { 102 51 0 }
     color_ui = rgb { 102 51 0 }
 }
+
+MAD_FRA = {
+    color = rgb { 102 51 0 }
+    color_ui = rgb { 102 51 0 }
+}
+
+MOR_FRA = {
+    color = rgb { 102 51 0 }
+    color_ui = rgb { 102 51 0 }
+}

@@ -28,3 +28,15 @@ set_autonomy = {
 		autonomous_state = autonomy_colonial
 		freedom_level = 0.3
 	}
+
+set_autonomy = {
+		target = MAD
+		autonomous_state = autonomy_colonial
+		freedom_level = 0.3
+	}
+
+set_autonomy = {
+		target = SYR
+		autonomous_state = autonomy_puppet
+		freedom_level = 0.6
+	}
