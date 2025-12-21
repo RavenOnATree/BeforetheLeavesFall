@@ -6,8 +6,8 @@ state={
 	state_category = city
 
 	history={
-		owner = PRE
-		controller = PRE
+		owner = OPR
+		controller = OPR
 		
 		victory_points = {
 			6332 10 #Konigsberg
@@ -31,11 +31,7 @@ state={
 		}
 		add_core_of = GER
 		add_core_of = PRE
-		1939.1.1 = {
-			buildings = {
-				anti_air_building = 5
-			}
-		}
+		add_core_of = OPR
 	}
 
 	provinces={

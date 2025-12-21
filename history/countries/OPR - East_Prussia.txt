@@ -1,0 +1,5 @@
+set_autonomy = {
+		target = PRE
+		autonomous_state = autonomy_puppet
+		freedom_level = 0.7
+	}

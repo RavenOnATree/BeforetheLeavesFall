@@ -17,6 +17,20 @@ on_puppet = {
     if = {
       limit = { 
         AND = { 
+          TAG = PRE
+          is_subject_of = OPR
+           }
+          }
+        set_cosmetic_tag = PRE_OHL
+      }
+    }
+  }
+
+on_puppet = {
+  effect = {
+    if = {
+      limit = { 
+        AND = { 
           TAG = MOR
           is_subject_of = FRA
            }
