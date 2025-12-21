@@ -18,6 +18,7 @@ state={
 		}
 		add_core_of = SOV
 		add_core_of = ARM
+		add_claim_by = TUR
 		1939.1.1 = {
 			buildings = {
 				industrial_complex = 3
