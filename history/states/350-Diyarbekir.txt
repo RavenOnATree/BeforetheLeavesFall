@@ -4,7 +4,7 @@ state={
 	name="STATE_350"
 
 	history={
-		owner = TUR
+		owner = KUR
 		victory_points = {
 			4512 3 #Diyarbakir 
 		}
@@ -17,22 +17,6 @@ state={
 		buildings = {
 			infrastructure = 2
 			air_base = 2
-
-		}
-		if = {
-			limit = {
-				has_dlc = "Battle for the Bosporus"
-			}
-			add_core_of = KUR
-		}
-		if = {
-			limit = {
-				NOT = { has_dlc = "Battle for the Bosporus" }
-			}
-			add_core_of = TUR
-			add_core_of = KUR
-		}
-	}
 
 	provinces={
 		4512 9823 11759 11871 12387 12416 
