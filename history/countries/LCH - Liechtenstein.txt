@@ -1,0 +1,2 @@
+capital = 1128
+set_cosmetic_tag = LCH
