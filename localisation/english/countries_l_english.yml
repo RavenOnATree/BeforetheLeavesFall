@@ -182,3 +182,6 @@
  GEO:0 "Democratic Republic of Georgia"
  GEO_DEF:0 "Georgia"
  GEO_ADJ:0 "Georgian"
+ AZR:0 "Azerbaijan Democratic Republic"
+ AZR_DEF:0 "Azerbaijan"
+ AZR_ADJ:0 "Azerbaijani"
