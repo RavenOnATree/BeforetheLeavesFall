@@ -1263,3 +1263,11 @@ AZR = {
 	color = rgb { 69  151  49 }
 	color_ui = rgb { 69  151  49 }
 }
+KUR = {
+	color = rgb { 234 179 30 }
+	color_ui = rgb { 234 179 30 }
+}
+PER = {
+	color = rgb { 71  113  97 }
+	color_ui = rgb { 71  113  97 }
+}
