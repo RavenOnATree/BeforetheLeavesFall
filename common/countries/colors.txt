@@ -1259,3 +1259,7 @@ GEO = {
 	color = rgb { 255  204  204 }
 	color_ui = rgb { 255  204  204 }
 }
+AZR = {
+	color = rgb { 69  151  49 }
+	color_ui = rgb { 69  151  49 }
+}
