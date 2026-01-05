@@ -1251,3 +1251,11 @@ LCH = {
 	color = rgb { 75 0 150 }
 	color_ui = rgb { 75 0 150 }
 }
+ARM = {
+	color = rgb { 176  102  136 }
+	color_ui = rgb {176 102 136 }
+}
+GEO = {
+	color = rgb { 255  204  204 }
+	color_ui = rgb { 255  204  204 }
+}
