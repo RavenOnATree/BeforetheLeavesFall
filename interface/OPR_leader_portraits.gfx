@@ -1,0 +1,7 @@
+spriteTypes = { 
+
+  spriteType = {
+    name = "GFX_portrait_OPR_wilhelm_iv"
+    texturefile = "gfx/leaders/OPR/WilhelmIV.tga"
+  }
+}
