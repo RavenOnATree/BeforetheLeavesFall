@@ -58,12 +58,13 @@ CZE = {	color = rgb { 54 167 156 }
 		color_ui = rgb { 70 217 203 }
 }
 POL = {
-	color = rgb { 184 79 114 }
-	color_ui = rgb { 184 79 114 }
+	color = rgb { 214 102 139 }
+	color_ui = rgb { 255 120 138 }
 }
-CTL = { color 	 = rgb { 193 171 8  }
-		color_ui = rgb { 251 222 10 }
-	  }
+CTL = { 
+	color 	 = rgb { 193 171 8  }
+	color_ui = rgb { 251 222 10 }
+}
 AUS = {
 	color = rgb { 194 198 215 }
 	color_ui = rgb { 255 255 255 }
