@@ -1,6 +1,6 @@
 characters={
 	OPR_character = {
-		OPR = OPR_wilhelm_iv
+		name = OPR_wilhelm_iv
 		portraits = {
 			civilian = {
 				large = GFX_portrait_OPR_wilhelm_iv
