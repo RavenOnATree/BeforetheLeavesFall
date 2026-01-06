@@ -1,9 +1,9 @@
 characters={
-	PRE_character = {
-		PRE = PRE_wilhelm_iv
+	OPR_character = {
+		OPR = OPR_wilhelm_iv
 		portraits = {
 			civilian = {
-				large = GFX_portrait_PRE_wilhelm_iv
+				large = GFX_portrait_OPR_wilhelm_iv
 			}
 		}
 		country_leader = {
