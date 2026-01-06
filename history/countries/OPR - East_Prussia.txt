@@ -4,4 +4,4 @@ set_autonomy = {
 		freedom_level = 0.7
 	}
 
-recruit_character = PRE_character
+recruit_character = OPR_character
