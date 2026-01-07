@@ -5,10 +5,10 @@ set_politics = {
 	elections_allowed = no
 }
 set_popularities = {
-	democratic = 32
+	democratic = 21
 	fascism = 11
-	communism = 19
-	neutrality = 38
+	communism = 9
+	neutrality = 59
 }
 
 recruit_character = OPR_character
