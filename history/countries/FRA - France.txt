@@ -40,3 +40,8 @@ set_autonomy = {
 		autonomous_state = autonomy_puppet
 		freedom_level = 0.6
 	}
+set_autonomy = {
+		target = IND
+		autonomous_state = autonomy_colonial
+		freedom_level = 0.6
+	}

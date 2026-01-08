@@ -1,0 +1,7 @@
+spriteTypes = { 
+
+  spriteType = {
+    name = "GFX_portrait_FTU_makhno"
+    texturefile = "gfx/leaders/FTU/Makhno.tga"
+  }
+}

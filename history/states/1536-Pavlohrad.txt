@@ -7,7 +7,7 @@ state={
 	state_category = rural
 
 	history={
-		owner = SOV
+		owner = FTU
 		victory_points = {
 			11452 3 #Pavlograd
 		}
@@ -16,7 +16,7 @@ state={
 			industrial_complex = 1
 			air_base = 2
 		}
-		add_core_of = SOV
+		add_core_of = FTU
 		add_core_of = UKR
 	}
 

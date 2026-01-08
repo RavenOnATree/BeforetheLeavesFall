@@ -14,12 +14,12 @@ state={
 		victory_points = {
 			737 1
 		}
-		owner = SOV
+		owner = FTU
 		buildings = {
 			infrastructure = 3 #was: 5
 			air_base = 3
 		}
-		add_core_of = SOV
+		add_core_of = FTU
 		add_core_of = UKR
 		add_claim_by = CRI
 	}
