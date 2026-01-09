@@ -1,0 +1,7 @@
+spriteTypes = { 
+
+  spriteType = {
+    name = "GFX_portrait_SRU_pyotr_wrangel"
+    texturefile = "gfx/leaders/SRU/Pyotr_Wrangel.tga"
+  }
+}

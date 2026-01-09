@@ -1,0 +1,16 @@
+capital = 3686
+
+set_politics = {
+	ruling_party = neutrality
+	last_election = "1920.9.8"
+	election_frequency = 36
+	elections_allowed = no
+}
+set_popularities = {
+	democratic = 35
+	fascism = 16
+	communism = 3
+	neutrality = 46
+}
+
+recruit_character = SRU_character

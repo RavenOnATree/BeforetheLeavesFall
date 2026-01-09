@@ -7,7 +7,7 @@ state={
 	state_category = large_town
 
 	history={
-		owner = SOV
+		owner = SRU
 		victory_points = {
 			3686 5
 		}
@@ -19,7 +19,9 @@ state={
 				coastal_bunker = 3
 			}
 		}
-		add_core_of = SOV
+		add_claim_by = SOV
+		add_claim_by = FTU
+		add_core_of = SRU
 		add_core_of = CRI
 		add_core_of = SVT
 		1939.1.1 = {
