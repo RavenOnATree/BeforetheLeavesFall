@@ -1,16 +1,21 @@
 capital = 11405
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = anarchist
 	last_election = "1922.9.8"
 	election_frequency = 36
 	elections_allowed = no
 }
 set_popularities = {
-	democratic = 9
-	fascism = 1
-	communism = 11
-	neutrality = 79
+	authoritarian_socialist = 6
+	anarchist = 63
+	libertarian_socialist = 17
+	progressive = 7
+	liberal = 4
+	conservative = 1
+	authoritarian = 2
+	despotist = 0
+	ultranationalist = 0
 }
 
 recruit_character = FTU_character

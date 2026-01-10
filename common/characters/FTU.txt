@@ -7,7 +7,7 @@ characters={
 			}
 		}
 		country_leader = {
-			ideology = anarchism
+			ideology = platformism
 			traits = {}
 			expire = "1968.1.1.1"
 			id = 2
