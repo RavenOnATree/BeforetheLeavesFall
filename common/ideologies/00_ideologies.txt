@@ -71,7 +71,7 @@ ideologies = {
 
 		}
 
-		color = { 341 30 82 }
+		color = { 203 30 82 }
 
 	}
 
