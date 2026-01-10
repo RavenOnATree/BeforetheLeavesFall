@@ -5,12 +5,12 @@ ideologies = {
         types = {
 
 			Bolshevism = {
-				color = { 91 10 10 }
+				color = { 53 3 3 }
 			}
 
         }
 
-		color = { 91 10 10 }
+		color = { 53 3 3 }
     }
 
     anarchist = {
