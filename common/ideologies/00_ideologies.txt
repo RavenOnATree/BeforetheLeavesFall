@@ -173,7 +173,7 @@ ideologies = {
 			}
 
 			national_socialism = {
-				color = { 29 10 10 }
+				color = { 53 19 0 }
 			}
 
 			national_syndicalism = {

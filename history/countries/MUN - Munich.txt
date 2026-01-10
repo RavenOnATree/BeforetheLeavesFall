@@ -1,16 +1,21 @@
 set_cosmetic_tag = MUN
 
 set_politics = {
-	ruling_party = fascism
+	ruling_party = ultranationalist
 	last_election = "1923.11.8"
 	election_frequency = 36
 	elections_allowed = no
 }
 set_popularities = {
-	democratic = 7
-	fascism = 63
-	communism = 11
-	neutrality = 19
+	authoritarian_socialist = 9
+	anarchist = 0
+	libertarian_socialist = 0
+	progressive = 0
+	liberal = 0
+	conservative = 10
+	authoritarian = 8
+	despotist = 11
+	ultranationalist = 62
 }
 
 recruit_character = MUN_character
