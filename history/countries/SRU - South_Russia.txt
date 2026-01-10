@@ -14,7 +14,7 @@ set_popularities = {
 	liberal = 2
 	conservative = 12
 	authoritarian = 19
-	despotist = 38
+	despotist = 45
 	ultranationalist = 10
 }
 recruit_character = SRU_character
