@@ -39,16 +39,8 @@ ideologies = {
 				color = { 130 14 14 }
 			}
 
-			libertarian_marxism = {
-				color = { 150 29 39 }
-			}
-
 			syndicalism = {
 				color = { 229 32 32 }
-			}
-
-			democratic_socialism = {
-				color = { 196 40 53 }
 			}
 
         }
@@ -60,6 +52,10 @@ ideologies = {
 	progressive = {
 
 		types = {
+
+			democratic_socialism = {
+				color = { 196 40 53 }
+			}
 
 			social_democracy = {
 				color = { 203 30 82 }
@@ -156,7 +152,7 @@ ideologies = {
 			}
 
 			semi_constitutional_monarchy = {
-				color = { 80 26 91 }
+				color = { 53 17 61 }
 			}
 
 		}
@@ -169,7 +165,7 @@ ideologies = {
 		types = {
 
 			ethno_nationalism = {
-
+				
 			}
 
 			national_socialism = {
@@ -177,7 +173,11 @@ ideologies = {
 			}
 
 			national_syndicalism = {
-				color = { 64 38 21}
+				color = { 64 38 21 }
+			}
+
+			absolute_monarchism = {
+				color = { 23 15 51 }
 			}
 
 		}

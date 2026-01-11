@@ -1,19 +1,19 @@
 capital = 6332
 
 set_politics = {
-	ruling_party = despotism
+	ruling_party = despotist
 	last_election = "1922.9.8"
 	election_frequency = 36
 	elections_allowed = no
 }
 set_popularities = {
-	authoritarian_socialist = 0
+	authoritarian_socialist = 2
 	anarchist = 0
-	libertarian_socialist = 0
-	progressive = 0
-	liberal = 10
+	libertarian_socialist = 3
+	progressive = 8
+	liberal = 5
 	conservative = 21
-	authoritarian = 19
+	authoritarian = 11
 	despotist = 37
 	ultranationalist = 13
 }
