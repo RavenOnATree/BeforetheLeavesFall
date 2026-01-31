@@ -44,7 +44,7 @@ ideologies = {
 			}
 
 			left_wing_tridemism = {
-				color = { 172 82 157 }
+				color = { 44 0 128 }
 			}
 
         }

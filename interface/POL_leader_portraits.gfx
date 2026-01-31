@@ -1,0 +1,7 @@
+spriteTypes = { 
+
+  spriteType = {
+    name = "GFX_portrait_POL_zamoyski"
+    texturefile = "gfx/leaders/POL/Zamoyski.tga"
+  }
+}
