@@ -14,5 +14,20 @@ characters={
 		}
 	}
 
+	GMJ_tridemist = {
+		name = GMJ_sun_yue
+		portraits = {
+			civilian = {
+				large = GFX_portrait_GMJ_sun_yue
+			}
+		}
+		country_leader = {
+			ideology = tridemism
+			traits = {}
+			expire = "1938.1.1.1"
+			id = 67
+		}
+	}
+
   
 }

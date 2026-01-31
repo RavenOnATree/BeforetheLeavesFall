@@ -18,3 +18,4 @@ set_popularities = {
 }
 
 recruit_character = GMJ_character
+recruit_character = GMJ_tridemist
