@@ -9,10 +9,8 @@ state={
 	state_category = wasteland
 	history={
 
-		owner = XSM
-		add_core_of = XSM
-		add_core_of = CHI
-		add_core_of = PRC
+		owner = GMJ
+		add_core_of = GMJ
 
 		victory_points = {
 			7971 1 # Jiuquan 

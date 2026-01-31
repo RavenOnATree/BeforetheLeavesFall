@@ -43,6 +43,10 @@ ideologies = {
 				color = { 229 32 32 }
 			}
 
+			left_wing_tridemism = {
+				color = { 172 82 157 }
+			}
+
         }
 
 		color = { 150 29 39 }
@@ -59,6 +63,10 @@ ideologies = {
 
 			social_democracy = {
 				color = { 203 30 82 }
+			}
+
+			tridemism = {
+				color = { 0 0 148 }
 			}
 
 			social_liberalism = {

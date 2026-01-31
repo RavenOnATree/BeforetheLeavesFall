@@ -1,0 +1,18 @@
+characters={
+	GMJ_character = {
+		name = GMJ_yuxiang
+		portraits = {
+			civilian = {
+				large = GFX_portrait_GMJ_yuxiang
+			}
+		}
+		country_leader = {
+			ideology = left_wing_tridemism
+			traits = {}
+			expire = "1938.1.1.1"
+			id = 4
+		}
+	}
+
+  
+}

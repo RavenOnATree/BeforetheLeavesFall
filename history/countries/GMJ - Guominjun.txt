@@ -1,0 +1,20 @@
+
+set_politics = {
+	ruling_party = libertarian_socialist
+	last_election = "1922.9.8"
+	election_frequency = 36
+	elections_allowed = no
+}
+set_popularities = {
+	authoritarian_socialist = 21
+	anarchist = 0
+	libertarian_socialist = 38
+	progressive = 31
+	liberal = 4
+	conservative = 1
+	authoritarian = 2
+	despotist = 3
+	ultranationalist = 0
+}
+
+recruit_character = GMJ_character

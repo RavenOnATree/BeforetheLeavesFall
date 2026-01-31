@@ -7,12 +7,12 @@ state={
 		victory_points = {
 			11857 3 #Leskovac
 		}
-		owner = YUG
+		owner = MAC
 		buildings = {
 			infrastructure = 2
 
 		}
-		add_core_of = YUG
+		add_core_of = MAC
 		add_core_of = SER
 		add_claim_by = BUL
 
