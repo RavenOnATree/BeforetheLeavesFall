@@ -1,0 +1,7 @@
+spriteTypes = { 
+
+  spriteType = {
+    name = "GFX_portrait_KMC_yuxiang"
+    texturefile = "gfx/leaders/KMC/Yuxiang.tga"
+  }
+}

@@ -17,5 +17,5 @@ set_popularities = {
 	ultranationalist = 0
 }
 
-recruit_character = GMJ_character
-recruit_character = GMJ_tridemist
+recruit_character = KMC_character
+recruit_character = KMC_tridemist

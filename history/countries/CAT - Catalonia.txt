@@ -1,1 +1,21 @@
 set_cosmetic_tag = CAT_CNT
+
+set_politics = {
+	ruling_party = anarchist
+	last_election = "1924.1.1"
+	election_frequency = 36
+	elections_allowed = no
+}
+set_popularities = {
+	authoritarian_socialist = 13
+	anarchist = 49
+	libertarian_socialist = 21
+	progressive = 4
+	liberal = 3
+	conservative = 0
+	authoritarian = 0
+	despotist = 0
+	ultranationalist = 10
+}
+
+recruit_character = CNT_character

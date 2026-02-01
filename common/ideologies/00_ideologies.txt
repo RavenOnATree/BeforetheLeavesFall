@@ -4,7 +4,7 @@ ideologies = {
 
         types = {
 
-			Bolshevism = {
+			bolshevism = {
 				color = { 53 3 3 }
 			}
 
@@ -23,6 +23,10 @@ ideologies = {
 
 			anarcho-communism = {
 				color = { 71 47 47 }
+			}
+
+			anarcho-syndicalism = {
+				color = { 223 5 5 }
 			}
 
         }
@@ -44,7 +48,7 @@ ideologies = {
 			}
 
 			left_wing_tridemism = {
-				color = { 44 0 128 }
+				color = { 90 31 61 }
 			}
 
         }
@@ -140,6 +144,10 @@ ideologies = {
 
 			guided_democracy = {
 				color = { 122 122 122}
+			}
+
+			right_tridemism = {
+				color = { 47 47 76 }
 			}
 
 			oligarchy = {

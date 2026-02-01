@@ -1,9 +1,9 @@
 characters={
-	GMJ_character = {
-		name = GMJ_yuxiang
+	KMC_character = {
+		name = KMC_yuxiang
 		portraits = {
 			civilian = {
-				large = GFX_portrait_GMJ_yuxiang
+				large = GFX_portrait_KMC_yuxiang
 			}
 		}
 		country_leader = {
@@ -14,11 +14,11 @@ characters={
 		}
 	}
 
-	GMJ_tridemist = {
-		name = GMJ_sun_yue
+	KMC_tridemist = {
+		name = KMC_sun_yue
 		portraits = {
 			civilian = {
-				large = GFX_portrait_GMJ_sun_yue
+				large = GFX_portrait_KMC_sun_yue
 			}
 		}
 		country_leader = {
@@ -29,5 +29,4 @@ characters={
 		}
 	}
 
-  
 }

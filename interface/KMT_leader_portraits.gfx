@@ -1,0 +1,17 @@
+spriteTypes = { 
+
+  spriteType = {
+    name = "GFX_portrait_KMT_chiang"
+    texturefile = "gfx/leaders/KMT/Chiang.tga"
+  }
+
+  spriteType = {
+    name = "GFX_portrait_KMT_wang"
+    texturefile = "gfx/leaders/KMT/Wang.tga"
+  }
+
+  spriteType = {
+    name = "GFX_portrait_KMT_mao"
+    texturefile = "gfx/leaders/KMT/Mao.tga"
+  }
+}

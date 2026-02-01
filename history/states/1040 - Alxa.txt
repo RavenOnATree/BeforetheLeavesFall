@@ -9,8 +9,8 @@ state={
 	state_category = wasteland
 	history={
 
-		owner = GMJ
-		add_core_of = GMJ
+		owner = KMC
+		add_core_of = KMC
 
 		victory_points = {
 			4783 1 # Ejin Banner

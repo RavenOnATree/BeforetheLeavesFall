@@ -3,8 +3,8 @@ state={
 	name="STATE_1475"
 
 	history={
-		owner = GMJ
-		add_core_of = GMJ
+		owner = KMC
+		add_core_of = KMC
 		
 		1936.1.1 = {
 			IF = {

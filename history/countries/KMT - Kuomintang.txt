@@ -1,0 +1,25 @@
+
+set_politics = {
+	ruling_party = progressive
+	last_election = "1924.1.1"
+	election_frequency = 36
+	elections_allowed = no
+}
+set_popularities = {
+	authoritarian_socialist = 9
+	anarchist = 0
+	libertarian_socialist = 24
+	progressive = 46
+	liberal = 1
+	conservative = 1
+	authoritarian = 2
+	despotist = 17
+	ultranationalist = 0
+}
+
+capital = 1047
+
+
+recruit_character = KMT_character
+recruit_character = KMT_leftist
+recruit_character = KMT_mao

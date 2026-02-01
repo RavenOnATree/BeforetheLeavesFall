@@ -1,0 +1,16 @@
+characters={
+	CNT_character = {
+		name = CNT_council
+		portraits = {
+			civilian = {
+				large = GFX_portrait_CNT_council
+			}
+		}
+		country_leader = {
+			ideology = anarcho-syndicalism
+			traits = {}
+			expire = "1975.1.1.1"
+			id = 36
+		}
+	}
+}

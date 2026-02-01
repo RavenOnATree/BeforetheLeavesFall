@@ -8,8 +8,8 @@ state={
 	buildings_max_level_factor=1.000
 	state_category = wasteland
 	history={
-		owner = GMJ
-		add_core_of = GMJ
+		owner = KMC
+		add_core_of = KMC
 		
 		1936.1.1 = {
 			IF = {

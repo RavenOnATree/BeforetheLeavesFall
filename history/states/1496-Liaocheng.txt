@@ -18,13 +18,9 @@ state=
 			infrastructure = 2
 		}
 
-		1938.10.25 = {
-			owner = CHI
-			controller = JAP
-		}
 	}
 	provinces={
-		9987 11933 13958 13959 
+		9987 11933 13959 
 	}
 
 	local_supplies=0.0 

@@ -10,8 +10,8 @@ state = {
 
 	history = {
 
-		owner = GMJ
-		add_core_of = GMJ
+		owner = KMC
+		add_core_of = KMC
 
 		victory_points = {
 			7158 1 # Ulanqab 
