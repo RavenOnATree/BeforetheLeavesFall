@@ -128,6 +128,10 @@ GXC = {
 	color = rgb { 62 46 56 }
 	color_ui = rgb { 62 46 56 }
 }
+ANH = {
+	color = rgb { 255 197 0 }
+	color_ui = rgb { 255 197 0 }
+}
 MAN = {
 	color = rgb { 224 145 0 }
 	color_ui = rgb { 224 145 0 }

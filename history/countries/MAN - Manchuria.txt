@@ -1,1 +1,21 @@
 capital = 11771
+
+set_politics = {
+	ruling_party = despotist
+	last_election = "1922.9.8"
+	election_frequency = 36
+	elections_allowed = no
+}
+set_popularities = {
+	authoritarian_socialist = 0
+	anarchist = 0
+	libertarian_socialist = 0
+	progressive = 17
+	liberal = 7
+	conservative = 3
+	authoritarian = 27
+	despotist = 43
+	ultranationalist = 3
+}
+
+recruit_character = MAN_character

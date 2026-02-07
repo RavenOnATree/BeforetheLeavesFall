@@ -1,0 +1,16 @@
+characters={
+	MAN_character{
+		name = MAN_zhang
+		portraits = {
+			civilian = {
+				large = GFX_portrait_MAN_zhang_zuolin
+			}
+		}
+		country_leader = {
+			ideology = military_government
+			traits = {}
+			expire = "1938.1.1.1"
+			id = 4
+		}
+	}
+}

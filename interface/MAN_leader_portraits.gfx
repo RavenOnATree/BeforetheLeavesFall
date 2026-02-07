@@ -1,0 +1,7 @@
+spriteTypes = { 
+
+  spriteType = {
+    name = "GFX_portrait_MAN_zhang_zuolin"
+    texturefile = "gfx/leaders/MAN/Zhang.tga"
+  }
+}

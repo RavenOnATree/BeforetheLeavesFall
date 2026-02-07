@@ -30,7 +30,7 @@ state={
 	}
 
 	provinces={
-		900 6969 11822
+		900 6969 11822 14845
 	}
 
 	local_supplies=0.0 
