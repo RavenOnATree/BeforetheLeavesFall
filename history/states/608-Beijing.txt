@@ -11,15 +11,6 @@ state={
 		add_core_of = CHI
 		add_core_of = PRC
 		
-		1936.1.1 = {
-			IF = {
-				limit = {
-					has_dlc = "No Compromise, No Surrender"
-				}
-				transfer_state_to = HBC
-				add_core_of = HBC
-			}
-		}
 		
 		buildings = {
 			infrastructure = 3 #was: 5
@@ -42,14 +33,10 @@ state={
 			11761 5
 		}
 
-		1938.10.25 = {
-			owner = CHI
-			controller = JAP
-		}
 	}
 
 	provinces={
-		9843 11761 
+		11761 14842 14843 14844
 	}
 
 	local_supplies=1.0 

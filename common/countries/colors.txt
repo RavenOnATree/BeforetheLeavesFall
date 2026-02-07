@@ -120,6 +120,14 @@ KMT = {
 	color = rgb { 65 68 75 }
 	color_ui = rgb { 65 68 75 }
 }
+SHX = {
+	color = rgb { 53 78 85 }
+	color_ui = rgb { 53 78 85 }
+}
+GXC = {
+	color = rgb { 62 46 56 }
+	color_ui = rgb { 62 46 56 }
+}
 MAN = {
 	color = rgb { 224 145 0 }
 	color_ui = rgb { 224 145 0 }
@@ -375,11 +383,6 @@ PRC = {
 GXC = {
 	color = rgb { 71 113 97 }
 	color_ui = rgb { 71 113 97 }
-}
-
-SHX = {
-	color = rgb { 82  2  15 }
-	color_ui = rgb { 101  30  41 }
 }
 
 XSM = {

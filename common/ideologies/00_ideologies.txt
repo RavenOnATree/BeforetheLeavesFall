@@ -73,10 +73,6 @@ ideologies = {
 				color = { 0 0 148 }
 			}
 
-			social_liberalism = {
-				color = { 255 156 35}
-			}
-
 		}
 
 		color = { 203 30 82 }
@@ -86,6 +82,10 @@ ideologies = {
 	liberal = {
 
 		types = {
+
+			social_liberalism = {
+				color = { 255 156 35}
+			}
 
 			classical_liberalism = {
 				color = { 229 214 52 }
