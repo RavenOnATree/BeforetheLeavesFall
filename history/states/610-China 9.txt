@@ -13,9 +13,7 @@ state={
 
 	history={
 		owner = MAN
-		add_core_of = CHI
 		add_core_of = MAN
-		add_core_of = PRC
 		buildings = {
 			infrastructure = 2
 		}
@@ -25,7 +23,7 @@ state={
 	}
 
 	provinces={
-		3934 6837 9835 11886
+		6837 9835 11886
 	}
 
 	local_supplies=0.0 

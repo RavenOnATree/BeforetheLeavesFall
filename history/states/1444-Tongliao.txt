@@ -6,8 +6,8 @@ state={
 	state_category = town
 
 	history={
-		owner = KMC
-		add_core_of = KMC
+		owner = MAN
+		add_core_of = MAN
 		buildings = {
 			infrastructure = 2
 		}
@@ -15,7 +15,7 @@ state={
 	}
 
 	provinces={
-		4514 6852 9831 9927 11836 13923
+		9831 9927 11836 13923
 	}
 
 	local_supplies=0.0 
