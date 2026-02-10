@@ -10,15 +10,6 @@ state={
 		owner = KMC
 		add_core_of = KMC
 		
-		1936.1.1 = {
-			IF = {
-				limit = {
-					has_dlc = "No Compromise, No Surrender"
-				}
-				transfer_state_to = HBC
-				add_core_of = HBC
-			}
-		}
 		
 		buildings = {
 			infrastructure = 2
@@ -34,14 +25,10 @@ state={
 			9969 5
 		}
 
-		1938.10.25 = {
-			owner = CHI
-			controller = JAP
-		}
 	}
 
 	provinces={
-		1134 9969 10003 10022 11996 
+		1134 9969 10003 10022 11962 11980 11996 13956 
 	}
 
 	local_supplies=0.0 

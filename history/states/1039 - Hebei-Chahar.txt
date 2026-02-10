@@ -10,15 +10,6 @@ state = {
 		owner = KMC
 		add_core_of = KMC
 
-		1936.1.1 = {
-			IF = {
-				limit = {
-					has_dlc = "No Compromise, No Surrender"
-				}
-				transfer_state_to = HBC
-				add_core_of = HBC
-			}
-		}
 
 		buildings = {
 			infrastructure = 1 #was 2
@@ -32,11 +23,6 @@ state = {
 			}
 		}
 		
-		1938.10.25 = {
-			owner = CHI
-			controller = MEN
-			add_core_of = MEN
-		}
 		
 		victory_points = {
 			1590 3 # Kalgan #was 4
