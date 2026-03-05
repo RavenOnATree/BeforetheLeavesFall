@@ -7,9 +7,9 @@ set_politics = {
 	elections_allowed = no
 }
 set_popularities = {
-	authoritarian_socialist = 12
+	authsoc = 12
 	anarchist = 0
-	libertarian_socialist = 0
+	libsoc = 0
 	progressive = 0
 	liberal = 2
 	conservative = 12

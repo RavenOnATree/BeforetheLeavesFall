@@ -1,19 +1,6 @@
 ideologies = {
 
-	authoritarian_socialist = {
-
-        types = {
-
-			bolshevism = {
-				color = { 53 3 3 }
-			}
-
-        }
-
-		color = { 53 3 3 }
-    }
-
-    anarchist = {
+	anarchist = {
 
         types = {
 
@@ -35,7 +22,20 @@ ideologies = {
 
     }
 
-	libertarian_socialist = {
+	authsoc = {
+
+        types = {
+
+			leninism = {
+				color = { 53 3 3 }
+			}
+
+        }
+
+		color = { 53 3 3 }
+    }
+
+	libsoc = {
 
         types = {
 
