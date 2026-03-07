@@ -27,16 +27,11 @@ state={
 		add_core_of = RHI
 		add_claim_by = PRE
 
-
-		}
-	
 		set_demilitarized_zone = no
+		}
 	
 	provinces={
 		587 3444 9522 13889 14542
 	}
-	}
-
-	
-
 	local_supplies=0.0 
+	}

@@ -12,9 +12,6 @@ state= {
 			arms_factory = 2
 			dockyard = 6
 			air_base = 5
-			6389 ={
-				naval_base = 8
-			}
 		}
 		add_core_of = GER
 		add_core_of = SHL
@@ -24,7 +21,5 @@ state= {
 	provinces= {
 		3368 6257 9320 11331 14529 14536
  	}
+	local_supplies=0.0 	
 	}
-
-
-	local_supplies=0.0 

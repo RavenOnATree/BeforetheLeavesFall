@@ -28,7 +28,5 @@ state={
 	provinces={
 		375 3367 3499 9456 11219
 	}
+	local_supplies=0.0 	
 	}
-
-
-	local_supplies=0.0 

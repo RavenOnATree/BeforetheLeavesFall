@@ -8,22 +8,13 @@ state={
 
 	history={
 		owner = ANH
-		set_core_of = ANH
-		
+		add_core_of = ANH
 		
 		buildings = {
 			infrastructure = 3 #was: 5
 			industrial_complex = 1
 			air_base = 3
 			
-			14842 = {
-                landmark_forbidden_city = {
-                    level = 1
-                    allowed = {
-                        has_dlc = "No Compromise, No Surrender"
-                    }
-                }
-			}
 		}
 		victory_points = {
 			14842 35
@@ -35,7 +26,7 @@ state={
 	}
 
 	provinces={
-		11761 14842 14846 14847
+		11761 14842 14843 14844
 	}
 
 	local_supplies=1.0 
