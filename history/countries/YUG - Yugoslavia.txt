@@ -1,4 +1,4 @@
-set_costmetic_tag = YUG
+set_cosmetic_tag = YUG
 set_autonomy = {
 		target = BUL
 		autonomous_state = autonomy_puppet

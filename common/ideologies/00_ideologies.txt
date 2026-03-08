@@ -8,11 +8,11 @@ ideologies = {
                 color = { 0 0 0 }
             }
 
-			anarcho-communism = {
+			ancom = {
 				color = { 71 47 47 }
 			}
 
-			anarcho-syndicalism = {
+			ansyn = {
 				color = { 223 5 5 }
 			}
 
@@ -26,20 +26,28 @@ ideologies = {
 
         types = {
 
+			ml = {
+				color = { 63 0 0 }
+			}
+			
 			leninism = {
-				color = { 53 3 3 }
+				color = { 104 4 4 }
+			}
+
+			trotskysim = {
+				color = { 130 7 7 }
 			}
 
         }
 
-		color = { 53 3 3 }
+		color = { 104 4 4 }
     }
 
 	libsoc = {
 
         types = {
 
-			council_communism = {
+			councilcom = {
 				color = { 130 14 14 }
 			}
 
@@ -61,11 +69,11 @@ ideologies = {
 
 		types = {
 
-			democratic_socialism = {
+			demsoc = {
 				color = { 196 40 53 }
 			}
 
-			social_democracy = {
+			socdem = {
 				color = { 203 30 82 }
 			}
 
@@ -83,19 +91,19 @@ ideologies = {
 
 		types = {
 
-			social_liberalism = {
+			soclib = {
 				color = { 255 156 35}
 			}
 
-			classical_liberalism = {
+			lib = {
 				color = { 229 214 52 }
 			}
 
-			right_libertarianism = {
+			ancap = {
 				color = {37 150 190}
 			}
 
-			national_liberalism = {
+			natlib = {
 				color = { 255 255 96 }
 			}
 
@@ -109,11 +117,11 @@ ideologies = {
 
 		types = {
 
-			liberal_conservatism = {
+			libcon = {
 				color = { 112 159 216 }
 			}
 
-			christian_democracy = {
+			christdem = {
 				color = { 211 107 16 }
 			}
 
@@ -121,7 +129,7 @@ ideologies = {
 				color = { 55 81 211 }
 			}
 
-			right_wing_populism = {
+			populism = {
 				color = { 41 41 158 }
 			}
 		}
@@ -134,15 +142,15 @@ ideologies = {
 
 		types = {
 			
-			national_conservatism = {
+			natcon = {
 				color = { 89 93 99 }
 			}
 
-			provisional_government = {
+			provisional = {
 				color = { 142 142 142 }
 			}
 
-			guided_democracy = {
+			guided = {
 				color = { 122 122 122}
 			}
 
@@ -167,7 +175,7 @@ ideologies = {
 				color = { 91 91 91 }
 			}
 
-			semi_constitutional_monarchy = {
+			scmonarchism = {
 				color = { 53 17 61 }
 			}
 
@@ -184,15 +192,15 @@ ideologies = {
 				
 			}
 
-			national_socialism = {
+			natsoc = {
 				color = { 53 19 0 }
 			}
 
-			national_syndicalism = {
+			natsyn = {
 				color = { 64 38 21 }
 			}
 
-			absolute_monarchism = {
+			amonarchism = {
 				color = { 23 15 51 }
 			}
 

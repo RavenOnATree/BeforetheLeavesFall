@@ -7,7 +7,7 @@ characters={
 			}
 		}
 		country_leader = {
-			ideology = national_conservatism
+			ideology = natcon
 			traits = {}
 			expire = "1939.1.1.1"
 			id = 76

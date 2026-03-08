@@ -1,0 +1,19 @@
+
+set_politics = {
+	ruling_party = authsoc
+	last_election = "1922.12.30"
+	election_frequency = 36
+	elections_allowed = no
+}
+set_popularities = {
+	anarchist = 5
+	authsoc = 47
+	libsoc = 23
+	progressive = 11
+	liberal = 0
+	conservative = 0
+	authoritarian = 4
+	despotist = 8
+	ultranationalist = 2
+}
+recruit_character = SOV_troika

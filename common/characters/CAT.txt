@@ -7,7 +7,7 @@ characters={
 			}
 		}
 		country_leader = {
-			ideology = anarcho-syndicalism
+			ideology = ansyn
 			traits = {}
 			expire = "1975.1.1.1"
 			id = 36

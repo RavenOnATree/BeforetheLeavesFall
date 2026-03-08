@@ -1,5 +1,5 @@
 characters={
-	MAN_character{
+	MAN_character = {
 		name = MAN_zhang
 		portraits = {
 			civilian = {

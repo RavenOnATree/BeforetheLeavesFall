@@ -7,7 +7,7 @@ characters={
 			}
 		}
 		country_leader = {
-			ideology = semi_constitutional_monarchy
+			ideology = scmonarchism
 			traits = {}
 			expire = "1978.1.1.1"
 			id = 1
