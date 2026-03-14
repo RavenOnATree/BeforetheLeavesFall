@@ -1,2 +1,22 @@
 capital = 6521
-set_cosmetic_tag = BER
+
+set_politics = {
+	ruling_party = authoritarian
+	last_election = "1922.9.8"
+	election_frequency = 36
+	elections_allowed = no
+}
+set_popularities = {
+	anarchist = 0
+	authsoc = 7
+	libsoc = 16
+	progressive = 29
+	liberal = 8
+	conservative = 12
+	authoritarian = 9
+	despotist = 3
+	ultranationalist = 16
+}
+
+recruit_character = BER_reichstag
+recruit_character = BER_socialist

@@ -1,0 +1,48 @@
+characters={
+	KMT_character = {
+		name = KMT_chiang
+		portraits = {
+			civilian = {
+				large = GFX_portrait_KMT_chiang
+			}
+		}
+		country_leader = {
+			ideology = tridemism
+			traits = {}
+			expire = "1973.1.1.1"
+			id = 5
+		}
+	}
+
+	KMT_leftist = {
+		name = KMT_wang
+		portraits = {
+			civilian = {
+				large = GFX_portrait_KMT_wang
+			}
+		}
+		country_leader = {
+			ideology = left_wing_tridemism
+			traits = {}
+			expire = "1973.1.1.1"
+			id = 5
+		}
+	}
+
+	KMT_mao = {
+		name = KMT_mao
+		portraits = {
+			civilian = {
+				large = GFX_portrait_KMT_mao
+			}
+		}
+		country_leader = {
+			ideology = ml
+			traits = {}
+			expire = "1973.1.1.1"
+			id = 5
+		}
+	}
+
+  
+}

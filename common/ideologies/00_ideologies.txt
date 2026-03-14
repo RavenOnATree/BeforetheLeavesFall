@@ -38,6 +38,10 @@ ideologies = {
 				color = { 130 7 7 }
 			}
 
+			leftcom = {
+				color = { 252 8 8 }
+			}
+
         }
 
 		color = { 104 4 4 }
@@ -53,6 +57,10 @@ ideologies = {
 
 			syndicalism = {
 				color = { 229 32 32 }
+			}
+
+			luxemburgism = {
+				color = { 208 0 0 }
 			}
 
 			left_wing_tridemism = {
